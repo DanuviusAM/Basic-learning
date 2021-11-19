@@ -1,0 +1,6 @@
+#includeM<iostream>
+using namespace std;
+int main(){
+  cout<<"lx yyds!"
+  return 0;
+}
